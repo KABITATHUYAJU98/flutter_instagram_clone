@@ -5,7 +5,7 @@
 
 version:
   revision: 682aa387cfe4fbd71ccd5418b2c2a075729a1c66
-  channel: stable
+  channel: unknown
 
 project_type: app
 
